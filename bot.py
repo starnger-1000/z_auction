@@ -5,7 +5,7 @@ from discord.ext import commands
 from fastapi import FastAPI
 from pymongo import MongoClient
 import uvicorn
-pip install -r requirements.txt
+
 # bot.py
 # Full Club Auction Bot (single-file)
 # Dependencies: discord.py, fastapi, uvicorn, jinja2
