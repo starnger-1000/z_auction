@@ -1,0 +1,8 @@
+discord.py
+fastapi
+uvicorn
+asyncio
+aiohttp
+pymongo
+python-decouple
+jinja2
