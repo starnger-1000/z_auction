@@ -1,5 +1,5 @@
 # bot with duelist register, duelist auction, salary deduction, club balance adjust
-pip install discord.py fastapi uvicorn jinja2
+pip install
 python -m pip install "pymongo[srv]==3.12"
 # bot.py
 # Full Club Auction Bot (single-file)
