@@ -3,7 +3,7 @@ import os
 import discord
 from discord.ext import commands
 ...
-python -m pip install pymongo[srv]==3.12
+python -m pip install "pymongo[srv]==3.12"
 # bot.py
 # Full Club Auction Bot (single-file)
 # Dependencies: discord.py, fastapi, uvicorn, jinja2
