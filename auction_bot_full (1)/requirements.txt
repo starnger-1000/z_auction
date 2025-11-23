@@ -1,3 +1,7 @@
 discord.py
 fastapi
 uvicorn
+asyncio
+aiohttp
+pymongo
+python-decouplr
