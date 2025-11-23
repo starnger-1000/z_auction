@@ -754,5 +754,5 @@ if __name__ == "__main__":
     if DISCORD_TOKEN == "PASTE_YOUR_TOKEN_HERE" or not DISCORD_TOKEN:
         print("ERROR: Please set your DISCORD_TOKEN environment variable OR paste your token into DISCORD_TOKEN in this file.")
     else:
-        bot.run(discord_token)
+        bot.run(DISCORD_TOKEN)
 
