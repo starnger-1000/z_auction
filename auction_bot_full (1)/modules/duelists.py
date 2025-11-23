@@ -1,1 +1,0 @@
-# duelist management module
