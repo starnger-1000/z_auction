@@ -6,3 +6,4 @@ aiohttp
 pymongo
 python-decouple
 jinja2
+pymongo[srv]==3.12
